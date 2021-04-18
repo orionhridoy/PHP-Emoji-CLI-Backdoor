@@ -1,4 +1,3 @@
-<title>CLISC Tool</title>
 <?php
 error_reporting(0);
 if ($_GET["hridoy"]=="orion") {
